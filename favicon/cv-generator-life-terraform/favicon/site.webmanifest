@@ -1,6 +1,6 @@
 {
-    "name": "Orange",
-    "short_name": "Orange",
+    "name": "",
+    "short_name": "",
     "icons": [
         {
             "src": "/favicon/android-chrome-192x192.png",
@@ -13,7 +13,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#dae9f6",
-    "background_color": "#dae9f6",
+    "theme_color": "#326ba0",
+    "background_color": "#326ba0",
     "display": "standalone"
 }
